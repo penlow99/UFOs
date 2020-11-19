@@ -13,6 +13,7 @@ The purpose of this project was to create a web application to view information 
 
 ### - Filter Layout
 The web app uses five different text fields to input filter criteria. All filters are case sensitive.
+
 ![FilterInputs](static/images/filter_inputs.png)
 
 ### - Entering and Clearing Criteria
