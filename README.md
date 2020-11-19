@@ -17,6 +17,7 @@ The web app uses five different text fields to input filter criteria. All filter
 
 ### - Entering and Clearing Criteria
 After entering in the term to filter by, change the cursor location, and the data will be filtered by that input. If you want to erase a particular filter, just clear the field, and then change the cursor focus.  
+
 ![FilterInputsPop](static/images/filter_inputs_pop.png)
 
 ### - Form Reset
